@@ -1,0 +1,75 @@
+/* Customização de Fontes*/
+
+@font-face {
+	font-family: "Road Rage";
+	src: url("../fontes/road-rage.woff");
+}
+
+@font-face {
+	font-family: "Bring Heart";
+	src: url("../fontes/bring-heart.woff");
+}
+
+@font-face {
+	font-family: "Ancient Medium";
+	src: url("../fontes/ancient-medium.woff");
+}
+
+@font-face {
+	font-family: "Madelina Script";
+	src: url("../fontes/madelina-script.woff");
+}
+
+h1 {
+	font-size: 3em;
+	font-family: "Road Rage";
+	color: #B4045F;
+}
+
+p {
+	font-size: 3em;
+	font-family: "Bring Heart";
+	color: #5858FA;
+}
+
+h3 {
+	font-size: 3em;
+	font-family: "Ancient Medium";
+	color: #2E2E2E;
+}
+
+a {
+	font-size: 3em;
+	font-family: "Madelina Script";
+	color: #00FF00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
